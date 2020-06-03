@@ -2,9 +2,9 @@
 
 Technology used:
 
-Eclipse Oxygen
-Tomcat 9
-JDK 8
+Eclipse 
+Tomcat 7
+JDK 9
 Maven 3
-Spring5.0.2.RELEASE
+Spring 4.3.2 
 MySQL Database
