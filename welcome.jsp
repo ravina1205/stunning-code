@@ -5,7 +5,7 @@
 
 <body>
 
-Welcome
+	${msg}
 
 </body>
 </html>
