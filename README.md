@@ -1,4 +1,4 @@
-# stunning-code
+# Stunning-code
 
 ## Technology used:
 
