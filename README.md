@@ -1,10 +1,10 @@
 # stunning-code
 
-Technology used:
+## Technology used:
 
-Eclipse 
-Tomcat 7
-JDK 9
-Maven 3
-Spring 4.3.2 
-MySQL Database
+1. Eclipse 
+2. Tomcat 7
+3. JDK 9
+4. Maven 3
+5. Spring 4.3.2 
+6. MySQL Database
